@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\WebApiUbuntu\obj\Release\netcoreapp3.1\PubTmp\Out\WebApiUbuntu.exe
+C:\Users\Admin\source\repos\WebApiUbuntu\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Admin\source\repos\WebApiUbuntu\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Admin\source\repos\WebApiUbuntu\obj\Release\netcoreapp3.1\PubTmp\Out\WebApiUbuntu.dll
+C:\Users\Admin\source\repos\WebApiUbuntu\obj\Release\netcoreapp3.1\PubTmp\Out\WebApiUbuntu.deps.json
+C:\Users\Admin\source\repos\WebApiUbuntu\obj\Release\netcoreapp3.1\PubTmp\Out\WebApiUbuntu.runtimeconfig.json
+C:\Users\Admin\source\repos\WebApiUbuntu\obj\Release\netcoreapp3.1\PubTmp\Out\WebApiUbuntu.pdb
